@@ -39,25 +39,16 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-@syncfusion/ej2
-SEE LICENSE IN license
-
 @syncfusion/ej2-angular-base
 SEE LICENSE IN license
 
 @syncfusion/ej2-angular-buttons
 SEE LICENSE IN license
 
-@syncfusion/ej2-angular-calendars
-SEE LICENSE IN license
-
 @syncfusion/ej2-angular-documenteditor
 SEE LICENSE IN license
 
 @syncfusion/ej2-angular-dropdowns
-SEE LICENSE IN license
-
-@syncfusion/ej2-angular-filemanager
 SEE LICENSE IN license
 
 @syncfusion/ej2-angular-inputs
@@ -75,19 +66,10 @@ SEE LICENSE IN license
 @syncfusion/ej2-angular-notifications
 SEE LICENSE IN license
 
-@syncfusion/ej2-angular-pdfviewer
-SEE LICENSE IN license
-
 @syncfusion/ej2-angular-popups
 SEE LICENSE IN license
 
-@syncfusion/ej2-angular-progressbar
-SEE LICENSE IN license
-
 @syncfusion/ej2-angular-splitbuttons
-SEE LICENSE IN license
-
-@syncfusion/ej2-angular-spreadsheet
 SEE LICENSE IN license
 
 @syncfusion/ej2-base
@@ -111,9 +93,6 @@ SEE LICENSE IN license
 @syncfusion/ej2-documenteditor
 SEE LICENSE IN license
 
-@syncfusion/ej2-drawings
-SEE LICENSE IN license
-
 @syncfusion/ej2-dropdowns
 SEE LICENSE IN license
 
@@ -123,28 +102,13 @@ SEE LICENSE IN license
 @syncfusion/ej2-file-utils
 SEE LICENSE IN license
 
-@syncfusion/ej2-filemanager
-SEE LICENSE IN license
-
-@syncfusion/ej2-grids
-SEE LICENSE IN license
-
-@syncfusion/ej2-inplace-editor
-SEE LICENSE IN license
-
 @syncfusion/ej2-inputs
-SEE LICENSE IN license
-
-@syncfusion/ej2-interactive-chat
 SEE LICENSE IN license
 
 @syncfusion/ej2-layouts
 SEE LICENSE IN license
 
 @syncfusion/ej2-lists
-SEE LICENSE IN license
-
-@syncfusion/ej2-markdown-converter
 SEE LICENSE IN license
 
 @syncfusion/ej2-navigations
@@ -156,34 +120,16 @@ SEE LICENSE IN license
 @syncfusion/ej2-office-chart
 SEE LICENSE IN license
 
-@syncfusion/ej2-pdf
-SEE LICENSE IN license
-
-@syncfusion/ej2-pdf-data-extract
-SEE LICENSE IN license
-
 @syncfusion/ej2-pdf-export
-SEE LICENSE IN license
-
-@syncfusion/ej2-pdfviewer
 SEE LICENSE IN license
 
 @syncfusion/ej2-popups
 SEE LICENSE IN license
 
-@syncfusion/ej2-progressbar
-SEE LICENSE IN license
-
 @syncfusion/ej2-ribbon
 SEE LICENSE IN license
 
-@syncfusion/ej2-richtexteditor
-SEE LICENSE IN license
-
 @syncfusion/ej2-splitbuttons
-SEE LICENSE IN license
-
-@syncfusion/ej2-spreadsheet
 SEE LICENSE IN license
 
 @syncfusion/ej2-svg-base
